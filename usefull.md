@@ -5,3 +5,10 @@ git rm -r --cached . && git add . && git commit -m ".gitignore fix" remove all f
 expac -S -H M "%m %n"|sort -n arch sort packages by size
 parallel parallels any task in cmd
 etckeeper versionig of etc
+nmap -sVC potentialy risky ports
+fatrace file use
+Arch fix:
+-Syyu
+-Syu
+-Suu
+-Syyu
