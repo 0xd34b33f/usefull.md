@@ -12,3 +12,4 @@ Arch fix:
 -Syu
 -Suu
 -Syyu
+cache removalsudo paccache -r -k 1   
